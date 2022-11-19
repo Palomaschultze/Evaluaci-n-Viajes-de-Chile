@@ -1,13 +1,12 @@
 body {
-    background: black;
-
+    background-color: black;
+    font-family: 'Lato', sans-serif !important;
     }
 
 #estilonav {
-position: fixed;
-width: 100%;
-z-index: 10;
-
+    position: fixed;
+    width: 100%;
+    z-index: 10;
 }
 
 #quienessomos {
@@ -18,17 +17,19 @@ z-index: 10;
 #quienes1 {
     background-color: transparent;
     color: white;
+    font-weight: 300 !important;
 }
 
 #quienes2 {
     background-color: transparent;
     color: white;
+    font-weight: 300 !important;
 }
 
 #quienes3 {
     background-color: transparent;
     color: white;
-
+    font-weight: 300 !important;
 }
 
 #destacados {
@@ -41,6 +42,7 @@ z-index: 10;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    font-weight: 300 !important;
 }
 
 #destacado2 .image-top{
@@ -48,6 +50,7 @@ z-index: 10;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    font-weight: 300 important;
 }
 
 #destacado3 .image-top{
@@ -55,6 +58,7 @@ z-index: 10;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    font-weight: 300 important;
 }
 
 #destacado4 .image-top{
@@ -62,6 +66,7 @@ z-index: 10;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    font-weight: 300 important;
 }
 
 #final {
